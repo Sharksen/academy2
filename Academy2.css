@@ -1,0 +1,35 @@
+*{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+ul li{
+  color: teal;
+}
+
+a{
+  color: darkmagenta;
+  text-decoration: none;
+}
+
+a:hover{
+  text-shadow: 10px;
+}
+
+button{
+  color: darkmagenta;
+  border-radius: 30px;
+  border: 1px;
+  padding: 10px;
+  font-size: large;
+  margin: 6px;
+  cursor: pointer;
+  
+  
+}
+
+h2{
+  color: darkcyan;
+}
+
+body{
+  background-color: blanchedalmond;
+}
